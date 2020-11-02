@@ -1,0 +1,7 @@
+! Title: 😶 VukkyFilt
+
+! Fixes for some sites
+@@||widget.trustpilot.com^
+
+! Rigged sites that can go to hell
+loot.g2a.com^
