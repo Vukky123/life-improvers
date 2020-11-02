@@ -9,3 +9,4 @@
 
 ! Terrible customer service forums that can stop existing
 ||answers.microsoft.com^$document
+google.*##.rc,div[data-ow]:has(a[href*="answers.microsoft.com"])
