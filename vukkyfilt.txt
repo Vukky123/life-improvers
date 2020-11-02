@@ -5,4 +5,7 @@
 @@||widget.trustpilot.com^
 
 ! Rigged sites that can go to hell
-loot.g2a.com^
+||loot.g2a.com^$document
+
+! Terrible customer service forums that can stop existing
+||answers.microsoft.com^$document
