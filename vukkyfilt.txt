@@ -1,4 +1,5 @@
 ! Title: 😶 VukkyFilt
+! Expires: 1 day
 
 ! Fixes for some sites
 @@||widget.trustpilot.com^
