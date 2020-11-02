@@ -9,4 +9,6 @@
 
 ! Terrible customer service forums that can stop existing
 ||answers.microsoft.com^$document
+!#if !env_mobile
 google.*##.rc,div[data-ow]:has(a[href*="answers.microsoft.com"])
+!#endif
