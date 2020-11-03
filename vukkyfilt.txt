@@ -1,13 +1,13 @@
 ! Title: 😶 VukkyFilt
-! Expires: 1 day
+! Expires: 12 hours
 
 ! Fixes for some sites
 @@||widget.trustpilot.com^
 
-! Rigged sites that can go to hell
+! Rigged sites
 ||loot.g2a.com^$document
 
-! Terrible customer service forums that can stop existing
+! Terrible customer service forums
 ||answers.microsoft.com^$document
 
 ! Search result blocking for these sites
