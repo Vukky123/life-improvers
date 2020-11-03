@@ -9,6 +9,9 @@
 
 ! Terrible customer service forums that can stop existing
 ||answers.microsoft.com^$document
+
+! Search result blocking for these sites
 !#if !env_mobile
 google.*##.rc,div[data-ow]:has(a[href*="answers.microsoft.com"])
+google.*##.rc,div[data-ow]:has(a[href*="loot.g2a.com"])
 !#endif
