@@ -15,6 +15,3 @@
 google.*##.rc,div[data-ow]:has(a[href*="answers.microsoft.com"])
 google.*##.rc,div[data-ow]:has(a[href*="loot.g2a.com"])
 !#endif
-
-! Hiding elements that aren't needed
-fallguys.com##.css-12hedbc
