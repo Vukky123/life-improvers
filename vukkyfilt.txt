@@ -21,6 +21,6 @@ google.*##.rc,div[data-ow]:has(a[href*="answers.microsoft.com"])
 ! https://www.reddit.com/r/assholedesign/comments/kyx28q/the_clickbait_has_gone_too_far/
 ||shacknews.com^$document
 !#if !env_mobile
-google.*##.rc,div[data-ow]:has(a[href*="loot.g2a.com"])
+google.*##.rc,div[data-ow]:has(a[href*="shacknews.com"])
 !#endif
 
