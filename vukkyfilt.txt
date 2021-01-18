@@ -1,26 +1,20 @@
 ! Title: 😶 VukkyFilt
 ! Expires: 12 hours
+! Designed for use on desktop only. This is a personal filter, but you may use it if you'd like.
 
 ! Fixes for some sites
 @@||widget.trustpilot.com^
 
 ! Rigged sites
 ||loot.g2a.com^$document
-!#if !env_mobile
 google.*##.rc,div[data-ow]:has(a[href*="loot.g2a.com"])
-!#endif
 
 ! Terrible customer service forums
 ||answers.microsoft.com^$document
-!#if !env_mobile
 google.*##.rc,div[data-ow]:has(a[href*="answers.microsoft.com"])
-!#endif
 
 ! Crappy news sites
 
 ! https://www.reddit.com/r/assholedesign/comments/kyx28q/the_clickbait_has_gone_too_far/
 ||shacknews.com^$document
-!#if !env_mobile
 google.*##.rc,div[data-ow]:has(a[href*="www.shacknews.com"])
-!#endif
-
