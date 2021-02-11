@@ -5,6 +5,10 @@
 ! Fixes for some sites
 @@||widget.trustpilot.com^
 
+! skribbl.io doesn't work when socket.io is blocked
+@@||server*.skribbl.io:*/socket.io/*$1p
+@@||skribbl.io:*/socket.io/*$1p
+
 ! Rigged sites
 ||loot.g2a.com^$document
 google.*##.rc,div[data-ow]:has(a[href*="loot.g2a.com"])
