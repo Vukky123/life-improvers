@@ -6,7 +6,6 @@
 @@||widget.trustpilot.com^
 
 ! skribbl.io doesn't work when socket.io is blocked
-@@||server*.skribbl.io:*/socket.io/*
 @@||skribbl.io:*/socket.io/*
 
 ! Rigged sites
