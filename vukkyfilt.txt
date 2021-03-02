@@ -20,3 +20,4 @@ google.*##.rc,div[data-ow]:has(a[href*="www.shacknews.com"])
 
 ! Misc
 winaero.com##.custom-html-widget.textwidget.widget
+www.hackertyper.com##.footer
