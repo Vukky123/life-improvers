@@ -22,3 +22,4 @@ google.*##.rc,div[data-ow]:has(a[href*="www.shacknews.com"])
 winaero.com##.custom-html-widget.textwidget.widget
 www.hackertyper.com##.footer
 ||com.com^
+apkpure.com##.right > div > .box
