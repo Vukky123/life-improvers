@@ -23,3 +23,4 @@ winaero.com##.custom-html-widget.textwidget.widget
 www.hackertyper.com##.footer
 ||com.com^
 apkpure.com##.right > div > .box
+www.theverge.com##.adblock-allowlist-messaging__wrapper
