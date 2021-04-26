@@ -28,3 +28,4 @@ www.theverge.com##.adblock-allowlist-messaging__article-wrapper
 yorg3.io###adinplayVideoContainer
 ||yorg.io/ads.js
 yorg.io###adblockHint
+||analytics.shapez.io
