@@ -25,3 +25,4 @@ www.hackertyper.com##.footer
 apkpure.com##.right > div > .box
 www.theverge.com##.adblock-allowlist-messaging__wrapper
 www.theverge.com##.adblock-allowlist-messaging__article-wrapper
+yorg3.io###adinplayVideoContainer
