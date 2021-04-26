@@ -29,3 +29,4 @@ yorg3.io###adinplayVideoContainer
 ||yorg.io/ads.js
 yorg.io###adblockHint
 ||analytics.shapez.io
+||tracking.yorg.app
