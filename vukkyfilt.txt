@@ -4,7 +4,7 @@
 
 ! Terrible customer service forums
 ||answers.microsoft.com^$document
-google.*##a[href*="answers.microsoft.com"]:upward(2):not(:has(.hide-focus-ring))
+google.*###search [href*="answers.microsoft.com"]:upward(2)
 
 ! Misc
 winaero.com##.custom-html-widget.textwidget.widget
