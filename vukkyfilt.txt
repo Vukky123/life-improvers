@@ -2,21 +2,9 @@
 ! Expires: 12 hours
 ! Designed for use on desktop only. This is a personal filter, but you may use it if you'd like.
 
-! Fixes for some sites
-@@||widget.trustpilot.com^
-
-! Rigged sites
-||loot.g2a.com^$document
-google.*##.rc,div[data-ow]:has(a[href*="loot.g2a.com"])
-
 ! Terrible customer service forums
 ||answers.microsoft.com^$document
-google.*##.rc,div[data-ow]:has(a[href*="answers.microsoft.com"])
-
-! Crappy news sites
-! https://www.reddit.com/r/assholedesign/comments/kyx28q/the_clickbait_has_gone_too_far/
-||shacknews.com^$document
-google.*##.rc,div[data-ow]:has(a[href*="www.shacknews.com"])
+google.*##a[href*="answers.microsoft.com"]:upward(2):not(:has(.hide-focus-ring))
 
 ! Misc
 winaero.com##.custom-html-widget.textwidget.widget
