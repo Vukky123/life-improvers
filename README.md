@@ -1,2 +1,2 @@
 # life improvers
-[https://github.com/Vukky123/runescape-chat-filter](runescape chat filter)
+[runescape chat filter](https://github.com/Vukky123/runescape-chat-filter)
