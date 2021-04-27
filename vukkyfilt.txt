@@ -30,3 +30,4 @@ yorg3.io###adinplayVideoContainer
 yorg.io###adblockHint
 ||analytics.shapez.io
 ||tracking.yorg.app
+shapez.io###ingame_HUD_StandaloneAdvantages
