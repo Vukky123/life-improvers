@@ -20,4 +20,4 @@ yorg.io###adblockHint
 shapez.io###ingame_HUD_StandaloneAdvantages
 2pi.pw###adblockModal
 2pi.pw##.in.modal-backdrop
-
+www.nytimes.com##.gdpr
