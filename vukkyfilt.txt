@@ -21,3 +21,6 @@ shapez.io###ingame_HUD_StandaloneAdvantages
 2pi.pw###adblockModal
 2pi.pw##.in.modal-backdrop
 www.nytimes.com##.gdpr
+www.cryptocompare.com##.panel-sim.panel-more-stuff-to-show.panel-block.panel
+||crosspromo.tobspr.io^
+shapez.io##.sideContainer
