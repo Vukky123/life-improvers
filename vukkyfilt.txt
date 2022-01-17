@@ -24,3 +24,4 @@ www.nytimes.com##.gdpr
 www.cryptocompare.com##.panel-sim.panel-more-stuff-to-show.panel-block.panel
 ||crosspromo.tobspr.io^
 shapez.io##.sideContainer
+@@||www.freevisitorcounters.com^
