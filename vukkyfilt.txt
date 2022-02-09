@@ -12,6 +12,7 @@ google.*###search [href*="answers.microsoft.com"]:upward(2)
 #@#iframe[width="468"][height="60"]
 #@#iframe[width="300"][height="250"]
 @@||www.freevisitorcounters.com^
+@@||exo.pet/images/ads/*$image,domain=googol.neocities.org
 
 ! Misc
 winaero.com##.custom-html-widget.textwidget.widget
