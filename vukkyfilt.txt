@@ -6,6 +6,13 @@
 ||answers.microsoft.com^$document
 google.*###search [href*="answers.microsoft.com"]:upward(2)
 
+! Improve viewing of Neocities sites, since so many filterlists consider these things as "annoyances" and "tracking"
+#@#img[width="88"][height="31"]
+#@#img[width="468"][height="60"]
+#@#iframe[width="468"][height="60"]
+#@#iframe[width="300"][height="250"]
+@@||www.freevisitorcounters.com^
+
 ! Misc
 winaero.com##.custom-html-widget.textwidget.widget
 www.hackertyper.com##.footer
@@ -24,4 +31,3 @@ www.nytimes.com##.gdpr
 www.cryptocompare.com##.panel-sim.panel-more-stuff-to-show.panel-block.panel
 ||crosspromo.tobspr.io^
 shapez.io##.sideContainer
-@@||www.freevisitorcounters.com^
