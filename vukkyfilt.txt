@@ -1,6 +1,6 @@
 ! Title: 📘 VukkyFilt
 ! Expires: 12 hours
-! Designed for use on desktop only. This is a personal filter, but you may use it if you'd like.
+! This is a personal filter, but you may use it if you'd like.
 
 ! Improve viewing of Neocities sites, since so many filterlists consider these things as "annoyances" and "tracking"
 #@#img[width="88"][height="31"]
