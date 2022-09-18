@@ -1,10 +1,6 @@
-! Title: 😶 VukkyFilt
+! Title: 📘 VukkyFilt
 ! Expires: 12 hours
 ! Designed for use on desktop only. This is a personal filter, but you may use it if you'd like.
-
-! Terrible customer service forums
-||answers.microsoft.com^$document
-google.*###search [href*="answers.microsoft.com"]:upward(2)
 
 ! Improve viewing of Neocities sites, since so many filterlists consider these things as "annoyances" and "tracking"
 #@#img[width="88"][height="31"]
@@ -14,21 +10,6 @@ google.*###search [href*="answers.microsoft.com"]:upward(2)
 @@||www.freevisitorcounters.com^
 @@||exo.pet/images/ads/*$image,domain=googol.neocities.org
 
-! Misc
-winaero.com##.custom-html-widget.textwidget.widget
-www.hackertyper.com##.footer
-apkpure.com##.right > div > .box
-www.theverge.com##.adblock-allowlist-messaging__wrapper
-www.theverge.com##.adblock-allowlist-messaging__article-wrapper
-yorg3.io###adinplayVideoContainer
-||yorg.io/ads.js
-yorg.io###adblockHint
-||analytics.shapez.io
-||tracking.yorg.app
-shapez.io###ingame_HUD_StandaloneAdvantages
-2pi.pw###adblockModal
-2pi.pw##.in.modal-backdrop
-www.nytimes.com##.gdpr
-www.cryptocompare.com##.panel-sim.panel-more-stuff-to-show.panel-block.panel
-||crosspromo.tobspr.io^
-shapez.io##.sideContainer
+! Just... no? (jumpscare/screamer, may trigger seizure)
+! See https://www.reddit.com/r/screamer/comments/ly89ct/pnrtscrcom_the_ultimate_lightshot_screamer/
+||pnrtscr.com^$document
