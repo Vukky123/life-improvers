@@ -9,6 +9,7 @@
 #@#iframe[width="300"][height="250"]
 @@||www.freevisitorcounters.com^
 @@||exo.pet/images/ads/*$image,domain=googol.neocities.org
+@@||dimden.dev/hitcounter/raw$xhr,1p
 
 ! Just... no? (jumpscare/screamer, may trigger seizure)
 ! See https://www.reddit.com/r/screamer/comments/ly89ct/pnrtscrcom_the_ultimate_lightshot_screamer/
